@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidiPadInterface", "MidiPadInterface\MidiPadInterface.csproj", "{975A89EC-ABAD-4A7B-B209-D4389E189924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidiPadInterfaceTest", "MidiPadInterfaceTest\MidiPadInterfaceTest.csproj", "{86EECB6C-94E7-4257-BF52-C34A77DD2D29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6018362E-7F9D-48BA-AC6B-603E70939594}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975A89EC-ABAD-4A7B-B209-D4389E189924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975A89EC-ABAD-4A7B-B209-D4389E189924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975A89EC-ABAD-4A7B-B209-D4389E189924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975A89EC-ABAD-4A7B-B209-D4389E189924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EECB6C-94E7-4257-BF52-C34A77DD2D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EECB6C-94E7-4257-BF52-C34A77DD2D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EECB6C-94E7-4257-BF52-C34A77DD2D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EECB6C-94E7-4257-BF52-C34A77DD2D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
